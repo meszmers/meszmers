@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there, I'm Marks👋
+I am PHP Developer from Latvia
 
 ## I am currently working on Object Orientated Socaial portal project!
 
