@@ -1,7 +1,14 @@
 ## Hi there, I'm Marks👋
 I am PHP Developer from Latvia :latvia:
 
-
+- PHP
+-MySQL
+- Laravel
+- Unit & Integration testing (including TDD methods)
+- MVC, SOLID & design patterns (KISS, DRY etc.)
+- Building REST API
+- HTML & CSS
+- GIT
 
 ## I am currently working on / My latest Projects:
 
