@@ -12,7 +12,7 @@
 
 ## I am currently working on / My latest Projects:
 
-- <a href="https://github.com/meszmers/Socail">Socail Portal</a>
+- <a href="https://github.com/meszmers/Socaial">Social Portal</a>
 - <a href="https://github.com/meszmers/Login">Login System</a>
 - <a href="https://github.com/meszmers/RegistryHTML">HTML Based Registry</a>
 
